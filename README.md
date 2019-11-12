@@ -1,4 +1,4 @@
-# Gobang 
+# Gobang - by RezaK
 A simple chess game forked from https://github.com/ruihuasui/react-gobang .<br/>
 
 
